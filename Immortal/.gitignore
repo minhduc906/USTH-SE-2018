@@ -1,7 +1,0 @@
-/application/cache/*
-/application/logs/*
-/application/config/database.php
-/.idea
-/.vscode/*
-/.htaccess
-/.bash_history
